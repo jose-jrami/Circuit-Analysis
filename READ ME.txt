@@ -1,0 +1,12 @@
+Install the follwoing modules
+
+pip install ahkab --user
+
+pip install matplotlib
+
+pip install numpy
+
+
+
+
+
